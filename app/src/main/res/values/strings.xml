@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_about">About ALC</string>
+    <string name="action_profile">My Profile</string>
+
+    <string name="message_welcome">Welcome to ALC 4.0</string>
+    <string name="label_about">ABOUT ALC</string>
+    <string name="label_profile">MY PROFILE</string>
+
+    <string name="ok_title">OK</string>
+    <string name="cancel_title">Cancel</string>
+</resources>
